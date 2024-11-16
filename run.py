@@ -1,2 +1,2 @@
 import run
-run.app()
+run.Main.Menu()
