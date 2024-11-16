@@ -1,1 +1,2 @@
 import run
+run.app()
